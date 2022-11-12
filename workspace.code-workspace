@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "editor.wordBasedSuggestions": false,
+        "editor.tabSize": 2,
+        // "[javascript]": {},
+    },
+    "extensions": {
+        "recommendations": [
+            "Syler.sass-indented",
+        ]
+    }
+}
