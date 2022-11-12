@@ -1,6 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
+  base: '/vite-frontend-starter/',
   server: {
     port: 3000,
     open: "/index.html",
